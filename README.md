@@ -12,7 +12,7 @@ Trabajos con HTML Y CSS.
 
 
 <div style="width: 100%">
- <img width="49.15%" src="https://e7.pngegg.com/pngimages/216/908/png-clipart-website-development-responsive-web-design-front-end-web-development-front-and-back-ends-website-building.png"/>
+ <img width="49.15%" src="https://cdn.dribbble.com/users/1971934/screenshots/5455567/media/0f9a483ca71aa9efd4b28186e73d617e.gif"/>
 </div>
 
 
