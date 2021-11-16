@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin:0%;
+}
+
+header h3 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+    background-color:#1CD1B0;
+    font-size: 15px;
+    height: 38px;
+    padding-left: 10px;
+    padding-top: 10px
+}
+
+header h1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    padding-left: 28px;
+    padding-top: 28px;
+}
+
+.cajaAzul {
+    background-color: #00669F;
+    height: 101px;
+}
+
+main {
+    background-color: #e5e5e5;
+    height: 780px;
+    overflow: auto;
+}
+
+.box {
+    display:block;
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 530px;
+    margin-top: 100px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow:1px 4px 2px rgba(185, 182, 182, 0.856);
+}
+
+.head {
+    height: 150px;
+    background-size: cover;
+}
+.head i {
+    color: red;
+    padding: 10px;
+    font-size: 20px
+}
+
+.fondoSuperoGirl {
+    background-image: url("../img/fondoSuperGirl.jpg")
+}
+
+.fondoSuperMan {
+    background-image: url("../img/fondoSuperMan.jpg");
+}
+
+.fondoJoker {
+    background-image: url("../img/fondoJoker.jpg");
+}
+
+.fondoHarley {
+    background-image: url("../img/fondoHarleyQuinn.png");
+}
+
+.fondoBatman {
+    background-image: url("../img/fondoBatman.png");
+}
+
+.flexBoxContainer {
+    display:flex;
+    flex-direction: row;
+}
+
+.footer{
+    background-color: #00669F;
+    height: 50px;
+}
+
+.img {
+    position: relative;
+    bottom: 60px;
+    left: 87px;
+    border-radius:160px;
+}
+
+.name {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    line-height: 35px;
+    bottom: 50px;
+}
+
+.text {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    bottom: 50px;
+    padding: 20px;
+    width: 267px;
+    line-height: 19px;
+    font-size: 16px;
+}
+
+main button{
+    font-family: 'Roboto', sans-serif;
+    color: #F3F3F3;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    background-color: #00669F;
+    width: 128.78px;
+    height: 48.52px;
+    position:relative;
+    bottom: 50px;
+    left: 85px;
+}
+
+.footer p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    position: relative;
+    color: #fff9f9;
+    line-height: 20px;
+    top: 15px;
+    font-size: 16px;
+    padding-left: 10px;
+}
